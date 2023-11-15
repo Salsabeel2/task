@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 400px;
+    margin-top: 25px;
+    color: rgba(0,0, 0);
+    border-radius: 5%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.item{
+    height: 440px;
+    width: fit-content;
+    float: left;
+    border: solid rgb(217, 126, 126);
+    box-shadow: 1px 1px 5px 3px rgb(101, 57, 57);
+}
+
+#cart{
+    font-size: 20px !important;
+}
